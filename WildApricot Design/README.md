@@ -1,2 +1,2 @@
-# atdcharlotte
-Files created for the ATD Charlotte Area Chapter
+# ATD Charlotte WildApricot Website
+This is the CSS used on the ATD Charlotte website atdcharlotte.org.
