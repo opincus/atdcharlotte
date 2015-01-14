@@ -1,0 +1,296 @@
+/* ATD Charlotte WildApricot Webdesign - based on the WildApricot BluePrint template */
+/* Oliver Pincus - www.oliverpincus.com - oliver@oliverpincus.com - 1/14/2015 */
+/* Go to Website - CSS and paste this CSS file into the Editor field */
+
+a {
+color: #FF4D00;
+}
+
+a:visited {
+color: #FF4D00;
+}
+
+a {
+color: #FF4D00;
+text-decoration: none
+}
+
+a.cta-button {
+background-color: #FF4D00;
+color: white;
+display: inline-block;
+font-family: inherit;
+height: 30px;
+font-size: 14px;
+font-weight: 600;
+padding: 10px 20px;
+letter-spacing: 1px;
+text-decoration: none;
+line-height: 27px;
+}
+ 
+a.cta-button:hover {
+background-color: #B3B2B3;
+} 
+
+a:hover {
+color: #FF4D00;
+text-decoration: underline;
+}
+
+.WaGadgetBlog .boxBodyInfoOuterContainer h5 .postedOn
+{
+background: #B3B2B3;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul ul {
+background: #B3B2B3;
+}
+
+.idFooterPoweredByContainer
+{
+font-size: 8px;
+}
+
+.zoneRoundedCorners
+{
+-webkit-border-radius: 0 0 0px 0px;
+-moz-border-radius: 0 0 0px 0px;
+border-radius: 0 0 0px 0px;/
+}
+
+.zoneFooterInner {
+background: #b3b2b3;
+}
+
+.WaGadgetCustomMenu ul {
+/* margin: 0; */
+/* padding: 0; */
+text-align: center;
+}
+
+.WaGadgetCustomMenu.gadgetStyle002 ul li a {
+    color: #000;
+    text-decoration: none;
+}
+
+.WaGadgetCustomMenu.gadgetStyle002 ul.orientationHorizontal {
+padding: 9px 25px;
+}
+
+.WaGadgetCustomMenu.gadgetStyle002 ul.orientationHorizontal {
+padding: 9px 25px;
+-webkit-border-radius: 0 0 0px 0px;
+-moz-border-radius: 0 0 0px 0px;
+border-radius: 0 0 0px 0px;/
+}
+
+.WaGadgetMenuVertical {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  display: table;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  zoom: 1;
+  text-align: left;
+  background: #C10013;
+  width: 100%;
+}
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  background: #C10013;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul ul li > 
+.item:second-child {
+color: black;
+background: #FFB700;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+/* Submenu Hover */
+.WaGadgetMenuHorizontal .menuInner ul ul li > 
+.item:hover > a {
+color: white;
+background: #FFB700;
+    -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+
+.WaGadgetMenuHorizontal .menuInner ul ul {
+  -webkit-border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  border-radius: 0 0 0 0;
+  display: none;
+  position: absolute;
+  left: 0px;
+  top: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  min-width: 280px;
+  z-index: 40000;
+  background: #B3B2B3;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel.firstItemHasDropDown {
+  -webkit-border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  border-radius: 0 0 0 0;
+}
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel.lastItemHasDropDown {
+  -webkit-border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  border-radius: 0 0 0 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li > .item:first-child {
+  -webkit-border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  border-radius: 0 0 0 0;
+}
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li > .item:last-child {
+  -webkit-border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  border-radius: 0 0 0 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li > .item > ul > li:first-child > .item > a {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li > .item > ul > li:only-child > .item > a {
+  -webkit-border-radius: 0 0 0 0;
+  -moz-border-radius: 0 0 0 0;
+  border-radius: 0 0 0 0;
+}
+
+
+.WaGadgetMenuHorizontal .menuInner ul ul ul{
+-webkit-border-radius: 0 0 0 0;
+-moz-border-radius: 0 0 0 0;
+border-radius: 0 0 0 0;
+}
+
+
+.WaGadgetMenuHorizontal .menuInner ul ul li:first-child > .item > a {
+-webkit-border-radius: 0 0 0 0;
+-moz-border-radius: 0 0 0 0;
+border-radius: 0 0 0 0;
+}
+
+.WaGadgetMenuHorizontal .menuInner ul ul li > 
+-webkit-border-radius: 0 0 0 0;
+-moz-border-radius: 0 0 0 0;
+border-radius: 0 0 0 0;
+}
+
+/* Menu Active Menu Color */
+.WaGadgetMenuHorizontal .menuInner ul.firstLevel > li.sel > .item > a > span {
+  border-bottom: 2px solid #B3B2B3;
+}
+
+.WaGadgetMenuVertical .menuInner ul.firstLevel > li.sel > .item > a > span {
+  border-bottom: 2px solid #8292ae;
+}
+
+.WaGadgetLoginForm .loginContainerForm .loginAction input.loginButton {
+  background: #FF4D00;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  color: white;
+  background: -webkit-linear-gradient(#FF4D00,#FF4D00); 
+  background: -o-linear-gradient(#FF4D00, #FF4D00);
+  background: -moz-linear-gradient(#FF4D00, #FF4D00); 
+  background: linear-gradient(#FF4D00, #FF4D00);
+}
+
+.WaGadgetLoginForm .loginContainerForm .loginAction input.loginButton:hover {
+background: #B3B2B3;
+}
+
+
+.functionalButton {
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 5px 14px 5px 14px;
+  border: none;
+  background: #FF4D00;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-appearance: none;
+  font: 600 13px/normal 'Open Sans';
+  color: white;
+  text-decoration: none;
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.navigationOuterContainer .navigationContainer input.nextButton, .navigationOuterContainer .navigationContainer input.typeButton, .navigationOuterContainer .navigationContainer input[type=submit] {
+width: auto;
+height: auto;
+margin: 0;
+padding: 5px 14px 5px 14px;
+border: none;
+background: #FF4D00;
+font: 600 13px/normal 'Open Sans';
+color: white;
+text-decoration: none;
+white-space: nowrap;
+text-align: center;
+vertical-align: middle;
+}
+
+.navigationOuterContainer .navigationContainer input.nextButton:hover,
+.navigationOuterContainer .navigationContainer input.typeButton:hover,
+.navigationOuterContainer .navigationContainer input[type=submit]:hover {
+  background: #B3B2B3;
+}
+
+
+.formTitleOuterContainer {
+margin: 0;
+padding-bottom: 10px;
+border-bottom: 2px solid #C10013;
+}
+
+
+/* Do not display author name in blog posts */
+span.postedByLabel
+{
+  display: none
+}
+
+/* Display plain date */
+span.postedByLink
+{
+  display: none
+}
+
+.itemAuthor
+{
+  display: none;
+}
